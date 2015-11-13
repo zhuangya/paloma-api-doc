@@ -1,4 +1,7 @@
-My Awesome Book
+PalomaJS
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+An angluar-like MVC framework, based on:
+
+- koa Next generation web framework for node.js.
+- bottlejs A powerful dependency injection micro container.
